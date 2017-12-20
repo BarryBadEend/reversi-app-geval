@@ -60,6 +60,8 @@ namespace WindowsFormsApp2
             Pen pen = new Pen(Color.Red, 3);
             e.Graphics.DrawEllipse(pen, x - 100 / 2, y - 100 / 2, 90, 90);
         }
+        hoi leander
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
