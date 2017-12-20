@@ -14,6 +14,8 @@ namespace WindowsFormsApp2
 {
     public partial class Form1 : Form
     {
+        int v;
+
         public Form1()
         {
             InitializeComponent();
@@ -22,7 +24,7 @@ namespace WindowsFormsApp2
         public void begin()
         {
          string UserAnswer = Microsoft.VisualBasic.Interaction.InputBox("hoe groot moet uw bord worden? ", "grootte", "6");
-            int v = int.Parse(UserAnswer);
+            v = int.Parse(UserAnswer);
 
         }
 

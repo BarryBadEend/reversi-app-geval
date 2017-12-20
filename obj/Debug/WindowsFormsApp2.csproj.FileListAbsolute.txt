@@ -15,3 +15,6 @@ C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2
 C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\obj\Debug\WindowsFormsApp2.exe
 C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\bin\Debug\WindowsFormsApp2.pdb
