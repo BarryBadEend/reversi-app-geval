@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+
 namespace WindowsFormsApp2
 {
     public partial class Form1 : Form
@@ -16,14 +18,13 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
-        public void Grootte ()      //vraagt om de grootte
-            {
-            Console.WriteLine("hoe groot wil je het bord hebben?");
 
-            int v = Int32.Parse(Console.ReadLine());
+        public void begin()
+        {
+         string UserAnswer = Microsoft.VisualBasic.Interaction.InputBox("hoe groot moet uw bord worden? ", "grootte", "6");
+            int v = int.Parse(UserAnswer);
 
-
-            }
+        }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
