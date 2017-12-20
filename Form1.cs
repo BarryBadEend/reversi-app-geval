@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Microsoft.VisualBasic;
 
 
 
@@ -20,14 +19,6 @@ namespace WindowsFormsApp2
         public Form1()
         {
             InitializeComponent();
-        }
-        public void begin()
-
-        {
-
-            string UserAnswer = Microsoft.VisualBasic.Interaction.InputBox("hoe groot moet uw bord worden? ","Reversi", "6" , 300 , 300 );
-            v = int.Parse(UserAnswer);
-
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -58,7 +49,6 @@ namespace WindowsFormsApp2
 
             Drawcircle(arg, x, y, 90, 90);
         }
-
         public void Drawcircle(PaintEventArgs e, int x, int y, int width, int height)
         {
             width = 90;
@@ -71,5 +61,13 @@ namespace WindowsFormsApp2
         {
 
         }
+
+        private void newGameToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            NewGameConfig config = new NewGameConfig();
+            config.ShowDialog();
+        }
+
+
     }
 }
