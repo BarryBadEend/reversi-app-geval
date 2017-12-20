@@ -14,7 +14,6 @@ namespace WindowsFormsApp2
 {
     public partial class Form1 : Form
     {
-        int v;
 
         public Form1()
         {
@@ -25,14 +24,14 @@ namespace WindowsFormsApp2
         {
             Pen blackPen = new Pen(Brushes.Black);
 
-            for (int y = 0; y <= v; ++y)
+            for (int y = 0; y <= 6; ++y)
             {
-                e.Graphics.DrawLine(blackPen, 0, y * 50, v * 50, y * 50);
+                e.Graphics.DrawLine(blackPen, 0, y * 50, 6 * 50, y * 50);
             }
 
-            for (int x = 0; x <= v; ++x)
+            for (int x = 0; x <= 6; ++x)
             {
-                e.Graphics.DrawLine(blackPen, x * 50, 0, x * 50, v * 50);
+                e.Graphics.DrawLine(blackPen, x * 50, 0, x * 50, 6 * 50);
             }
         }
 
@@ -67,7 +66,6 @@ namespace WindowsFormsApp2
             NewGameConfig config = new NewGameConfig();
             config.ShowDialog();
         }
-
 
     }
 }

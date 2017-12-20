@@ -18,3 +18,10 @@ C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2
 C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\bin\Debug\WindowsFormsApp2.exe.config
 C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\bin\Debug\WindowsFormsApp2.exe
 C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Leander\source\repos\Reversi-app\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Leander\source\repos\Reversi-app\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Leander\source\repos\Reversi-app\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Leander\source\repos\Reversi-app\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Leander\source\repos\Reversi-app\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Leander\source\repos\Reversi-app\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Leander\source\repos\Reversi-app\obj\Debug\WindowsFormsApp2.pdb
