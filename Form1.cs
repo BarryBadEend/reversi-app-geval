@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.VisualBasic;
 
 
 
@@ -20,10 +21,11 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
-
         public void begin()
+
         {
-         string UserAnswer = Microsoft.VisualBasic.Interaction.InputBox("hoe groot moet uw bord worden? ", "grootte", "6");
+
+            string UserAnswer = Microsoft.VisualBasic.Interaction.InputBox("hoe groot moet uw bord worden? ","Reversi", "6" , 300 , 300 );
             v = int.Parse(UserAnswer);
 
         }
@@ -56,6 +58,7 @@ namespace WindowsFormsApp2
 
             Drawcircle(arg, x, y, 90, 90);
         }
+
         public void Drawcircle(PaintEventArgs e, int x, int y, int width, int height)
         {
             width = 90;
