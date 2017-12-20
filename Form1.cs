@@ -19,6 +19,7 @@ namespace WindowsFormsApp2
         public void Grootte ()      //vraagt om de grootte
             {
             Console.WriteLine("hoe groot wil je het bord hebben?");
+
             int v = Int32.Parse(Console.ReadLine());
 
 
@@ -26,17 +27,16 @@ namespace WindowsFormsApp2
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
-            int p;
             Pen blackPen = new Pen(Brushes.Black);
 
-            for (int y = 0; y <= 6; ++y)
+            for (int y = 0; y <= v; ++y)
             {
-                e.Graphics.DrawLine(blackPen, 0, y * 50, 6 * 50, y * 50);
+                e.Graphics.DrawLine(blackPen, 0, y * 50, v * 50, y * 50);
             }
 
-            for (int x = 0; x <= 6; ++x)
+            for (int x = 0; x <= v; ++x)
             {
-                e.Graphics.DrawLine(blackPen, x * 50, 0, x * 50, 6 * 50);
+                e.Graphics.DrawLine(blackPen, x * 50, 0, x * 50, v * 50);
             }
         }
 
@@ -60,9 +60,7 @@ namespace WindowsFormsApp2
             Pen pen = new Pen(Color.Red, 3);
             e.Graphics.DrawEllipse(pen, x - 100 / 2, y - 100 / 2, 90, 90);
         }
-        hoi leander
-
-
+ 
         private void Form1_Load(object sender, EventArgs e)
         {
 

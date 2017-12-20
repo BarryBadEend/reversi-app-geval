@@ -8,3 +8,10 @@ C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2
 C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Thomas\Desktop\New folder (12)\WindowsFormsApp2-master\WindowsFormsApp2\reversi-app-geval\obj\Debug\WindowsFormsApp2.pdb
